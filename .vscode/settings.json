@@ -3,12 +3,15 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+<<<<<<< HEAD
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+=======
+>>>>>>> origin/task-forms
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
 }
