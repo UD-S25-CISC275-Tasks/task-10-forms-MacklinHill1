@@ -3,6 +3,18 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+=======
+>>>>>>> origin/task-forms
+>>>>>>> solved-forms
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
 }
